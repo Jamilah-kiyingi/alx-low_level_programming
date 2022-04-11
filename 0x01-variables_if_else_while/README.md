@@ -1,1 +1,1 @@
-my C programming variables
+my c and if commands
